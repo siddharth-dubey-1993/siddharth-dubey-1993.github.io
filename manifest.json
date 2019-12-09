@@ -1,0 +1,17 @@
+{
+    "name": "Dubey Siddharth",
+    "short_name": "Siddharth",
+    "theme_color": "#ffcbe4",
+    "background_color": "#fa99ca",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://siddharth-dubey-1993.github.io/",
+    "description": "Resume for Siddharth Dubey",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://siddharth-dubey-1993.github.io/img/profile.jpg",
+            "sizes": "1024x1024"
+        }
+    ]
+}
